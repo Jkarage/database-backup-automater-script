@@ -15,6 +15,7 @@ h2. The Variables (Mysql database)
 
 
 h2. Put these in the .bashrc file in your root directory(after modifying).
+h3. OR modify them in the credentials file and uncomment line 5 in automation script.
 
 
 * MYSQL_USERNAME="yourmysqlusername" <br>

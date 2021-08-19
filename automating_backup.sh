@@ -2,6 +2,7 @@
 
 # Creating a variable displaying instant time the bash was run
 now=$(printf "%(%F_%H%M%S)T")
+# source credentials
 
 # Create a directory where backups are stored
 mkdir -p ${BACKUP_PATH}
