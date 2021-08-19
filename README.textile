@@ -1,4 +1,4 @@
-h1. Database backup automator
+h1. Database backup automation
 
 
 * The Scripts Creates a Database Backup file  for your *mysql* Database.
